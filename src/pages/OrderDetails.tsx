@@ -9,7 +9,8 @@ import {
   Clock, 
   CheckCircle, 
   Truck,
-  ArrowRight
+  ArrowRight,
+  X
 } from 'lucide-react';
 import { Order, OrderStatus } from '@/types';
 import { cn } from '@/lib/utils';
